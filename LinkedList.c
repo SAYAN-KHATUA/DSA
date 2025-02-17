@@ -56,6 +56,5 @@ int main()
     
     dispList(&list);
 
-    // Mili r gud
     return 0;
 }
